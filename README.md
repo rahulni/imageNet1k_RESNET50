@@ -19,10 +19,17 @@
 Try the model live on Hugging Face Spaces!
 
 [![HuggingFace Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Rahul2020/Imagenet-Resnet50-App)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://www.youtube.com/watch?v=hxzgjvSp2Nw)
 
 **🔗 [Imagenet Resnet50 App - Live Demo](https://huggingface.co/spaces/Rahul2020/Imagenet-Resnet50-App)**
 
 Upload any image and see the model classify it into one of 1000 ImageNet categories!
+
+### 📺 Watch the Demo
+
+[![Demo Video](https://img.youtube.com/vi/hxzgjvSp2Nw/maxresdefault.jpg)](https://www.youtube.com/watch?v=hxzgjvSp2Nw)
+
+▶️ **[Watch on YouTube](https://www.youtube.com/watch?v=hxzgjvSp2Nw)** - See the model classify images in real-time!
 
 ---
 
@@ -310,6 +317,9 @@ python train_imagenet1k_resumable_v5.py
 ## 🔗 Links
 
 - **Live Demo:** [🤗 HuggingFace Space](https://huggingface.co/spaces/Rahul2020/Imagenet-Resnet50-App)
+- **Demo Video:** [📺 YouTube](https://www.youtube.com/watch?v=hxzgjvSp2Nw)
+- **Source Code:** [💻 GitHub](https://github.com/rahulni/imageNet1k_RESNET50)
+- **Author:** [👤 LinkedIn](https://www.linkedin.com/in/rahul-uniyal-3582231b/)
 - **Course:** ERA V4
 
 ---
